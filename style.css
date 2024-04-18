@@ -9,4 +9,7 @@
 .navbar ul li:hover{
    
      font-weight: bolder;
+     text-decoration: underline;
+     text-decoration-color: white;
+     
 }
