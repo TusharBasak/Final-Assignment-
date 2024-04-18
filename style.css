@@ -1,0 +1,12 @@
+.navbar ul li{
+   
+    font-size: 1.5rem;
+    font-weight:lighter;
+}
+
+
+
+.navbar ul li:hover{
+   
+     font-weight: bolder;
+}
